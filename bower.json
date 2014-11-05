@@ -1,0 +1,24 @@
+{
+  "name": "cryptology",
+  "version": "0.0.0",
+  "homepage": "https://github.com/valaxy/cryptology",
+  "authors": [
+    "valaxy <valaxy.tian@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chance": "~0.6.1",
+    "seajs": "https://github.com/seajs/seajs.git#~2.3.0",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {
+    "qunit": "~1.15.0"
+  }
+}
